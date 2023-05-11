@@ -1,7 +1,7 @@
 <div align="center">
 
 ### 💻 About Me
-Studying Data Science in Lima, Peru. Currently working with Python in computer vision and image processing .
+Studying Data Science in Lima, Peru. Currently working with Python in computer vision and image processing.
 
 ### 📨 Reach Out
 
