@@ -1,7 +1,7 @@
 <div align="center">
 
 ### 💻 About Me
-Data Scientist in Lima, Peru. Currently working with Python, C++, Vue & AWS.
+Studying Data Scientist in Lima, Peru. Currently working with Python in computer vision and image processing .
 
 ### 📨 Reach Out
 
