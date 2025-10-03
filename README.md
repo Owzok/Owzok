@@ -1,7 +1,7 @@
 <div align="center">
 
 ### 💻 About Me
-Studying Data Science in Lima, Peru. Currently working in fraud detection and recommender systems.
+Studying Data Science in Lima, Peru. Currently working in Azure and recommender systems.
 
 ### 📨 Reach Out
 
